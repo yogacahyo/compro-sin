@@ -15681,7 +15681,7 @@ a.rts-read-more:hover i {
   position: relative;
   z-index: 1;
 }
-.banner-two-parent::after {
+/* .banner-two-parent::after {
   position: absolute;
   content: "";
   background-image: url(../images/banner/shape/07.png);
@@ -15693,8 +15693,8 @@ a.rts-read-more:hover i {
   animation: jump-1 5s linear infinite;
   z-index: -1;
   pointer-events: none;
-}
-.banner-two-parent::before {
+} */
+/* .banner-two-parent::before {
   position: absolute;
   content: "";
   background-image: url(../images/banner/shape/08.png);
@@ -15706,7 +15706,7 @@ a.rts-read-more:hover i {
   animation: jump-2 3s linear infinite;
   z-index: -1;
   pointer-events: none;
-}
+} */
 
 .banner-wrapper-two {
   position: relative;
